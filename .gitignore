@@ -1,0 +1,25 @@
+# Visual Studio local state and build output
+.vs/
+x64/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.vsidx
+*.ipch
+
+# Compiled binaries and intermediate files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.res
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# OS metadata
+.DS_Store
+Thumbs.db

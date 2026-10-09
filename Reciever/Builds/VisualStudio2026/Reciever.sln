@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 18
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reciever - ConsoleApp", "Reciever_ConsoleApp.vcxproj", "{A77A5ED9-4ED2-F212-F3C9-2ABB36910CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77A5ED9-4ED2-F212-F3C9-2ABB36910CA1}.Debug|x64.ActiveCfg = Debug|x64
+		{A77A5ED9-4ED2-F212-F3C9-2ABB36910CA1}.Debug|x64.Build.0 = Debug|x64
+		{A77A5ED9-4ED2-F212-F3C9-2ABB36910CA1}.Release|x64.ActiveCfg = Release|x64
+		{A77A5ED9-4ED2-F212-F3C9-2ABB36910CA1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
